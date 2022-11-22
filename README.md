@@ -1,5 +1,6 @@
 # Instacart Basket Analysis
 *Analysis conducted in Python for CareerFoundry Data Analytics Program
+
 Instacart Basket Analysis report derives insights from 32 million rows using Python, Jupyter Notebooks and pandas
 
 # Project Objective: 
